@@ -11,6 +11,12 @@ public class Main {
                 "PartTime",1400,6,16,30,2);
         Admin.getAdmin().addEmployee("Mina Abbasi","09134567896",
                 "ProjectEmployee",1402,3,6,10,5);
+        Admin.getAdmin().addEmployee("Poone Mirfatah","09373133957",
+                "FullTime",1402,12,26,40,20);
+        Admin.getAdmin().addEmployee("Darya Zahiri","09444413339",
+                "PartTime",1400,6,16,30,2);
+        Admin.getAdmin().addEmployee("Mina Abbasi","09134567896",
+                "ProjectEmployee",1402,3,6,10,5);
         System.out.println(Admin.getAdmin().showUsers());
 
         int i=1;
