@@ -22,6 +22,5 @@ class Name {
     public String getLastName() {
         return this.lastName;
     }
-seccond edit
-    
+
 }
